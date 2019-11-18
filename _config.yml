@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+name: 4who
+headline: Helping people at scale
+
+# {"@type":"WebSite","url":"https://4who.github.io/","name":"4who.github.io","headline":"Welcome to 4who","description":"Official website for 4who","@context":"http://schema.org"}</script>
